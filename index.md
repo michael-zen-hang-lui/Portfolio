@@ -5,6 +5,4 @@ Please follow the links below to what you need.
 
 [Biography](https://michael-zen-hang-lui.github.io/portfolio/biography/then-to-now)
 
-[Link to a page]({% link _biography/from-then-and-now.md %})
-
 [Employment History](https://michael-zen-hang-lui.github.io/Portfolio/history)
