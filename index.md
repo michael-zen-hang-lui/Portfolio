@@ -1,1 +1,2 @@
-# Hi, welcome to my portfolio.
+# Hi, Welcome to My Portfolio.
+Here you will learn a little bit about me and for more formal purposes, employment and education history is available for browsing as well.
