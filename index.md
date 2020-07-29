@@ -3,6 +3,6 @@ Here you will learn a little bit about me and for more formal purposes, employme
 
 Please follow the links below to what you need.
 
-[Biography](https://michael-zen-hang-lui.github.io/Portfolio/biography)
+[Biography](https://michael-zen-hang-lui.github.io/Portfolio/Biography/My Start 'Til Where I Am Now)
 
 [Employment History](https://michael-zen-hang-lui.github.io/Portfolio/history)
