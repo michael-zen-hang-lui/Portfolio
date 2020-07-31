@@ -17,7 +17,6 @@
   color: #000000;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
   background-color: #B2B2B2;
   color: #ffffff;
