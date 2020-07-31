@@ -1,3 +1,17 @@
+body {
+    background: #B2B2B2;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.6px;
+  word-spacing: 0px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+    
 .topnav {
   background-color: #000;
   overflow: hidden;
