@@ -1,4 +1,14 @@
 .topnav {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 0px;
+word-spacing: -0.6px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
   background-color: #000000;
   overflow: hidden;
 }
@@ -17,7 +27,6 @@
   color: #000000;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
   background-color: #B2B2B2;
   color: #ffffff;
