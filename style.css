@@ -43,6 +43,10 @@ body {
   	min-height: 88vh;
 }
 
+.text-position {
+	padding-left: 2rem
+}
+
 ul {
 	list-style: square outside url("sqpurple.gif");
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
