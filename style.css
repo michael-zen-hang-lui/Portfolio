@@ -1,43 +1,38 @@
 body {
-    background: #B2B2B2;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-  font-size: 18px;
-  letter-spacing: 0.6px;
-  word-spacing: 0px;
-  color: #000000;
-  font-weight: normal;
-  text-decoration: none;
-  font-style: normal;
-  font-variant: normal;
-  text-transform: none;
+	background: #B2B2B2;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 18px;
+	letter-spacing: 0.6px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
 }
-    
 .topnav {
-  background-color: #000;
-  overflow: hidden;
+	background-color: #000;
+	overflow: hidden;
 }
-
 .topnav a {
-  float: left;
-  color: #fff;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+	float: left;
+	color: #fff;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
 }
-
 .topnav a:hover {
-  background-color: #B2B2B2;
-  color: #000;
+	background-color: #B2B2B2;
+	color: #000;
 }
-
 .topnav a.active {
-  background-color: #ffffff;
-  color: #000;
+	background-color: #ffffff;
+	color: #000;
 }
-
 ul {
-  list-style: square outside url("sqpurple.gif");
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-  font-size: 14px;
+	list-style: square outside url("sqpurple.gif");
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 14px;
 }
