@@ -1,5 +1,6 @@
 .topnav {
 	background-colour: #000000;
+	border-bottom: 12px outset #000000;
 	overflow: hidden;
 }
 .topnav a {
