@@ -35,3 +35,7 @@ body {
   background-color: #ffffff;
   color: #000;
 }
+
+ul {
+  list-style: square outside url("sqpurple.gif");
+}
