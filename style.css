@@ -23,6 +23,7 @@
 .container {
 	position: relative;
   	min-height: 100vh;
+}
 
 .body {
 	background: #B2B2B2;
