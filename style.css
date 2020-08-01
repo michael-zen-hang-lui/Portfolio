@@ -22,9 +22,6 @@
 
 body {
 	background: #B2B2B2;
-	background: -moz-linear-gradient(top, #B2B2B2 0%, #2388CB 100%, #2388CB 100%);
-	background: -webkit-linear-gradient(top, #B2B2B2 0%, #2388CB 100%, #2388CB 100%);
-	background: linear-gradient(to bottom, #B2B2B2 0%, #2388CB 100%, #2388CB 100%);
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 18px;
 	letter-spacing: 0.6px;
@@ -35,7 +32,6 @@ body {
 	font-style: normal;
 	font-variant: normal;
 	text-transform: none;
-	padding-bottom: 200px;
 }
 
 ul {
