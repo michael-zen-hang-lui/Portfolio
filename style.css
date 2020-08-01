@@ -72,3 +72,8 @@ ul {
 	text-transform: none;
 	text-align: right;
 }
+
+.footer a:hover {
+	background-color: #B2B2B2;
+	color: #000;
+}
