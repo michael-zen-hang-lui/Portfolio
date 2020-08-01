@@ -21,6 +21,7 @@
 }
 
 .container {
+	background: #B2B2B2;
 	position: relative;
   	min-height: 100vh;
 }
