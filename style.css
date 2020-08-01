@@ -34,6 +34,12 @@ body {
 	text-transform: none;
 }
 
+.container{
+  	display: flex;
+  	flex-direction: column;
+  	height: 100vh;
+}
+
 ul {
 	list-style: square outside url("sqpurple.gif");
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
