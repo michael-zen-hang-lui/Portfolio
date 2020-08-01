@@ -16,9 +16,6 @@ body {
 }
 .topnav {
 	background-colour: #000000;
-	background-colour: -moz-linear-gradient(left, #000000 0%, #2388CB 75%, #000000 100%);
-	background-colour: -webkit-linear-gradient(left, #000000 0%, #2388CB 75%, #000000 100%);
-	background-colour: linear-gradient(to right, #000000 0%, #2388CB 75%, #000000 100%);
 	overflow: hidden;
 }
 .topnav a {
