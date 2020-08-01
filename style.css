@@ -28,7 +28,7 @@
 .content-wrap {
 	padding-bottom: 4em
 
-body {
+.body {
 	background-color: #B2B2B2;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 18px;
@@ -48,6 +48,7 @@ ul {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 14px;
 }
+	
 .footer {
  	border-top: 12px outset #000000;
  	border-bottom: 12px outset #2388CB;
