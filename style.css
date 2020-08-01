@@ -41,6 +41,7 @@ body {
 .container {
 	position: relative;
   	min-height: 88vh;
+	padding-left: 2rem
 }
 
 ul {
