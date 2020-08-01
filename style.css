@@ -1,19 +1,3 @@
-body {
-	background: #B2B2B2;
-	background: -moz-linear-gradient(top, #B2B2B2 0%, #2388CB 85%, #000000 100%);
-	background: -webkit-linear-gradient(top, #B2B2B2 0%, #2388CB 85%, #000000 100%);
-	background: linear-gradient(to bottom, #B2B2B2 0%, #2388CB 85%, #000000 100%);
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-size: 18px;
-	letter-spacing: 0.6px;
-	word-spacing: 0px;
-	color: #000000;
-	font-weight: normal;
-	text-decoration: none;
-	font-style: normal;
-	font-variant: normal;
-	text-transform: none;
-}
 .topnav {
 	background-colour: #000000;
 	overflow: hidden;
@@ -34,6 +18,24 @@ body {
 	background-color: #ffffff;
 	color: #000;
 }
+
+body {
+	background: #B2B2B2;
+	background: -moz-linear-gradient(top, #B2B2B2 0%, #2388CB 85%, #000000 100%);
+	background: -webkit-linear-gradient(top, #B2B2B2 0%, #2388CB 85%, #000000 100%);
+	background: linear-gradient(to bottom, #B2B2B2 0%, #2388CB 85%, #000000 100%);
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 18px;
+	letter-spacing: 0.6px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
 ul {
 	list-style: square outside url("sqpurple.gif");
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
