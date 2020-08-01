@@ -46,6 +46,8 @@ ul {
 footer {
  	 border-top: 12px outset #000000;
  	 border-bottom: 12px outset #2388CB;
+	position: fixed;
+	width: 100%;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 12px;
 	letter-spacing: 0.6px;
