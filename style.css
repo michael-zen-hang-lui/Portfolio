@@ -38,4 +38,6 @@ body {
 
 ul {
   list-style: square outside url("sqpurple.gif");
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14px;
 }
