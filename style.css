@@ -41,14 +41,14 @@ body {
   	min-height: 100vh;
 }
 
-.content-wrap {
-	padding-bottom: 4rem
-}
-
 ul {
 	list-style: square outside url("sqpurple.gif");
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 14px;
+}
+
+.content-wrap {
+	padding-bottom: 4rem
 }
 
 .footer {
