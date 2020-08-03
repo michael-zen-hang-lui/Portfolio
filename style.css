@@ -18,8 +18,9 @@ body {
 	background-color: transparent;
 	border-bottom: 12px outset;
 	border-bottom-color: transparent;
-	image-resolution: 50%;
 	overflow: hidden;
+}
+img{height: fit-content
 }
 .topnav a {
 	float: left;
