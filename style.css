@@ -31,6 +31,7 @@ body {
 .topnav a:hover {
 	background-color: #000;
 	color: #fff;
+	transition: 1s
 }
 
 .topnav a.active {
