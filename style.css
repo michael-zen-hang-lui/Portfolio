@@ -17,13 +17,12 @@ body {
 .logo-image{
     width: 46px;
     height: 46px;
-    border-radius: 0;
+    border-radius: 50%;
 	overflow: hidden;
 	margin-top: -12px
 }
 .topnav {
 	background-color: transparent;
-	border-bottom: 12px outset;
 	border-bottom-color: #000;
 	overflow: hidden;
 }
@@ -51,7 +50,8 @@ body {
 
 .container {
 	position: relative;
-  	min-height: 88vh;
+	min-height: 88vh;
+	border-top: 12px  
 }
 
 .text-position {
