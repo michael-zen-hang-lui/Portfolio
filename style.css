@@ -15,8 +15,8 @@ body {
 	text-transform: none;
 }
 .topnav {
-	background-color: #000000;
-	border-bottom: 12px outset transparent;
+	background-color: #868686;
+	border-bottom: 12px outset;
 	overflow: hidden;
 }
 .topnav a {
