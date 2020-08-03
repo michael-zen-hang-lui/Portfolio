@@ -19,7 +19,8 @@ body {
 	height: 50px;
     border-radius: 100%;
 	overflow: hidden;
-	margin-top: -12px
+	margin-top: -13px;
+	padding-bottom: -13px;
 }
 .topnav {
 	background-color: transparent;
