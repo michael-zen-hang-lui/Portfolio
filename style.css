@@ -43,10 +43,6 @@ body {
 	color: #000;
 }
 
-.icon {
-	size: relative;
-}
-
 .container {
 	position: relative;
   	min-height: 88vh;
