@@ -42,6 +42,10 @@ body {
 	color: #000;
 }
 
+.topnav-icon {
+	size: [1em, 1em]
+}
+
 .container {
 	position: relative;
   	min-height: 88vh;
