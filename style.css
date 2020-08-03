@@ -14,12 +14,6 @@ body {
 	font-variant: normal;
 	text-transform: none;
 }
-.topnav {
-	background-color: transparent;
-	border-bottom: 12px outset;
-	border-bottom-color: transparent;
-	overflow: hidden;
-}
 .nav-bar-icon {
 	background-color: transparent;
 	max-height: 1em;  
@@ -31,6 +25,13 @@ body {
 	right: 0;  
 	margin: auto;
 }
+.topnav {
+	background-color: transparent;
+	border-bottom: 12px outset;
+	border-bottom-color: transparent;
+	overflow: hidden;
+}
+
 .topnav a {
 	float: left;
 	color: #fff;
