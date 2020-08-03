@@ -17,7 +17,7 @@ body {
 .logo-image{
     width: 46px;
     height: 46px;
-    border-radius: 50%;
+    border-radius: 0;
 	overflow: hidden;
 	margin-top: -12px
 }
