@@ -41,7 +41,7 @@ body {
 
 .container {
 	position: relative;
-  	min-height: 88%;
+  	min-height: 88vh;
 }
 
 .text-position {
@@ -61,7 +61,7 @@ ul {
 .footer {
  	border-top: 12px outset #000000;
  	border-bottom: 12px outset #2388CB;
-	position: bottom;
+	position: absolute;
   	bottom: 0;
 	width: 100%;
 	height: 4rem;
