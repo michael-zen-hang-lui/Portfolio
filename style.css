@@ -16,8 +16,8 @@ body {
 }
 .logo-image{
 	overflow: hidden;
-    width: relative;
-	height: relative;
+    width: 50%;
+	height: 50%;
     border-radius: 100%
 }
 .topnav {
