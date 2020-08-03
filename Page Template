@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-     <meta charset="utf-8">
-    <title>Employment History</title>
-    <meta name="description" content="Roughly 155 characters">
-  <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="Michael Lui" content="Home Page">
+    <title>Home</title>
+    <link rel="icon" type="image/png" href="/favicon.ico">
+    <link rel="stylesheet" href="/style.css">
 </head>
-<body>
+  <body>
   <div class="topnav">
-  <a href="/">Home</a>
+  <a class="active" href="/">Home</a>
   <a href="/biography">Biography</a>
-  <a class="active" href="employment">Employment History</a>
+  <a href="/employment">Employment History</a>
   <a href="/contact">Contact</a>
 </div>
-    <div class="container">
-      <div class="content-wrap">
-[Content Here]
-</div>
-<div class="footer">
-<p>Property of Lui Zen Hang. All rights reserved. For further information please contact:<br /><a href="mailto:zen.hang.lui@gmail.com">zen.hang.lui@gmail.com</a></p>
-</div>
-</div>
-</body>
+  <div class="container">
+    <div class="content-wrap">
+      <div class="text-position">
+        <h1>Title</h1>
+    <div class="footer">
+      <p>Property of Lui Zen Hang. All rights reserved. For further information please contact:<br /><a href="mailto:zen.hang.lui@gmail.com">zen.hang.lui@gmail.com</a></p>
+    </div>
+  </div>
+  </body>
 </html>
