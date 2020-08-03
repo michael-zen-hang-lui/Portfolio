@@ -20,7 +20,8 @@ body {
 	border-bottom-color: transparent;
 	overflow: hidden;
 }
-img{height: fit-content
+img{
+	height: 0.8em
 }
 .topnav a {
 	float: left;
