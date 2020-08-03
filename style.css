@@ -14,10 +14,13 @@ body {
 	font-variant: normal;
 	text-transform: none;
 }
-.logo-image{
+.logo-image {
 	overflow: hidden;
 	size: relative;
-    border-radius: 100%;
+	border-radius: 100%;
+}
+.navbar-brand {
+	padding: 0px
 }
 .topnav {
 	background-color: transparent;
