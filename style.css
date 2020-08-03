@@ -20,9 +20,10 @@ body {
 	border-bottom-color: transparent;
 	overflow: hidden;
 }
-img{
-	max-height: 100%;  
-	max-width: 100%; 
+.nav-bar-icon {
+	background-color: transparent;
+	max-height: 1em;  
+	max-width: 1em; 
 	position: relative;  
 	top: 0;  
 	bottom: 0;  
