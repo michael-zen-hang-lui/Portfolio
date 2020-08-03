@@ -14,17 +14,6 @@ body {
 	font-variant: normal;
 	text-transform: none;
 }
-.nav-bar-icon {
-	background-color: transparent;
-	max-height: 1em;  
-	max-width: 1em; 
-	position: left;  
-	top: 0;  
-	bottom: 0;  
-	left: 0;  
-	right: 0;  
-	margin: auto;
-}
 .topnav {
 	background-color: transparent;
 	border-bottom: 12px outset;
@@ -51,7 +40,17 @@ body {
 	background-color: #ffffff;
 	color: #000;
 }
-
+.nav-bar-icon {
+	background-color: transparent;
+	max-height: 1em;  
+	max-width: 1em; 
+	position: left;  
+	top: 0;  
+	bottom: 0;  
+	left: 0;  
+	right: 0;  
+	margin: auto;
+}
 .container {
 	position: relative;
   	min-height: 88vh;
