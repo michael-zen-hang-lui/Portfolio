@@ -44,6 +44,7 @@ body {
 }
 
 .topnav-icon {
+	float: inline-start;
 	size: relative;
 }
 
