@@ -43,8 +43,8 @@ body {
 }
 
 .topnav-icon {
-	size: 1em, 1em
-	
+	size: 1em, 1em;
+	align-items: flex-start;
 }
 
 .container {
