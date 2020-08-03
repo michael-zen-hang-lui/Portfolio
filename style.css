@@ -21,7 +21,8 @@ body {
 	overflow: hidden;
 }
 img{
-	height: 1.2em
+	background-color: transparent;
+	height: 1em
 }
 .topnav a {
 	float: left;
