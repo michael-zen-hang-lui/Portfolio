@@ -15,8 +15,7 @@ body {
 	text-transform: none;
 }
 h1 {
-	text-decoration-color: #000;
-	text-decoration: overline;
+	border-bottom: 2px outset #2388CB;
 }
 .logo-image {
 	overflow: hidden;
