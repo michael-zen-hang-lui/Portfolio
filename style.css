@@ -80,7 +80,8 @@ ul {
 }
 
 .page-footer {
- 	border-top: 12px outset #2388CB;
+	border-top: 12px outset #2388CB;
+	border-bottom: 12px outset #000;
 	position: absolute;
   	bottom: 0;
 	width: 99%;
@@ -95,7 +96,7 @@ ul {
 	font-style: normal;
 	font-variant: normal;
 	text-transform: none;
-	text-align: left;
+	text-align: right;
 }
 
 .footer a:hover {
