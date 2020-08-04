@@ -23,6 +23,12 @@ h1 {
 	border-radius: 100%;
 }
 
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
 .topnav {
 	background-color: transparent;
 	border-bottom: 9px outset;
@@ -61,7 +67,7 @@ h1 {
 	border-top: 12px  
 }
 
-.text-position {
+.article {
 	padding-left: 2rem
 }
 
@@ -69,10 +75,6 @@ ul {
 	list-style: square;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 14px;
-}
-
-.content-wrap {
-	padding-bottom: 6rem
 }
 
 .footer {
