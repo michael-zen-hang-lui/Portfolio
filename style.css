@@ -19,9 +19,7 @@ body {
 	size: relative;
 	border-radius: 100%;
 }
-.navbar-brand {
-	padding: 0px
-}
+
 .topnav {
 	background-color: transparent;
 	border-bottom-color: #000;
@@ -33,9 +31,9 @@ body {
 	color: #fff;
 	text-align: center;
 	position: relative;
-	padding: 14px 16px;
+	padding: 1em 1em;
 	text-decoration: none;
-	font-size: 17px;
+	font-size: 18px;
 }
 
 .topnav a:hover {
