@@ -3,29 +3,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="Michael Lui" content="Home Page">
-    <title>Home</title>
+    <title>Michael lui</title>
     <link rel="icon" type="image/png" href="/favicon.ico">
     <link rel="stylesheet" href="/style.css">
 </head>
   <body>
-  <div class="topnav">
-      <a class="navbar-brand" href="/">
-        <div class="logo-image">
-            <img src="/favicon.ico" style="height:1em;padding-top: 0.1em" class="img-fluid">
+    <div class="wrapper">
+      <div class="topnav">
+        <a class="navbar-brand" href="/">
+          <div class="logo-image">
+              <img src="/favicon.ico" style="height:1em;padding-top: 0.1em" class="img-fluid">
+          </div>
+        </a>
+        <a class="active" href="/">Home</a>
+        <a href="/biography">Biography</a>
+        <a href="/employment">Employment History</a>
+          <div class="topnav-right">
+            <a href="/contact">Contact</a>
+          </div>
         </div>
-      </a>
-      <a class="active" href="/">Home</a>
-      <a href="/biography">Biography</a>
-      <a href="/employment">Employment History</a>
-      <a href="/contact">Contact</a>
-     </div>
-  <div class="container">
-    <div class="content-wrap">
-      <div class="text-position">
-        <h1>Title</h1>
-    <div class="footer">
-      <p>Property of Lui Zen Hang. All rights reserved. For further information please contact:<br /><a href="mailto:zen.hang.lui@gmail.com">zen.hang.lui@gmail.com</a></p>
+            <article class="article">
+              <h1>Michael Zen-hang Lui - Martial Arts, Event Management, Customer Service</h1>
+            </article>
+      <footer class="page-footer">
+        <p>Property of Lui Zen Hang. All rights reserved. For further information please contact:<br /><a href="mailto:zen.hang.lui@gmail.com">zen.hang.lui@gmail.com</a></p></footer>
     </div>
-  </div>
   </body>
 </html>
