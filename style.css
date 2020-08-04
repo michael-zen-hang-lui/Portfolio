@@ -13,6 +13,7 @@ body {
 	font-style: normal;
 	font-variant: normal;
 	text-transform: none;
+	min-height: 100vh;
 }
 h1 {
 	border-bottom: 2px outset #2388CB;
