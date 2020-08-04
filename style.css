@@ -80,8 +80,7 @@ ul {
 }
 
 .page-footer {
- 	border-top: 12px outset #000000;
-	border-bottom: 12px outset #2388CB;
+ 	border-top: 12px outset #2388CB;
 	position: absolute;
   	bottom: 0;
 	width: 99%;
