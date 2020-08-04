@@ -94,8 +94,7 @@ ul {
 	font-style: normal;
 	font-variant: normal;
 	text-transform: none;
-	text-align: right;
-	overflow: hidden;
+	text-align: left;
 }
 
 .footer a:hover {
