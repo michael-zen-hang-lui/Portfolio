@@ -26,7 +26,8 @@ h1 {
 
 .topnav {
 	background-color: transparent;
-	border-bottom: 9px outset color #000;
+	border-bottom: 9px outset;
+	border-bottom-color: #000;
 	overflow: hidden;
 }
 
