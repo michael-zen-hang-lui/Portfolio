@@ -33,7 +33,7 @@ h1 {
 
 .topnav {
 	background-color: transparent;
-	border-bottom: 9px outset;
+	border-bottom: 6px outset;
 	border-bottom-color: #000;
 	overflow: hidden;
 }
@@ -82,6 +82,7 @@ ul {
 .page-footer {
 	border-top: 12px outset #2388CB;
 	border-bottom: 12px outset #000;
+	padding-bottom: 0.5em;
 	position: absolute;
   	bottom: 0;
 	width: 99%;
