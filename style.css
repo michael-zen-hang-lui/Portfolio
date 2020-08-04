@@ -39,7 +39,6 @@ body {
 .topnav a:hover {
 	background-color: #000;
 	color: #fff;
-	text-transform: capitalize;
 	transition: 1s
 }
 
