@@ -26,7 +26,7 @@ h1 {
 
 .topnav {
 	background-color: transparent;
-	border-bottom-color: #000;
+	border-bottom: 9px outset color #000;
 	overflow: hidden;
 }
 
@@ -36,7 +36,6 @@ h1 {
 	text-align: center;
 	position: relative;
 	padding: 0.5em 0.75em;
-	border-bottom: 0.5em outset color: #000;
 	text-decoration: none;
 	font-size: 18px;
 }
