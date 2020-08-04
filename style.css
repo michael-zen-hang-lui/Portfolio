@@ -51,6 +51,10 @@ h1 {
 	color: #000;
 }
 
+.topnav-right {
+	float: right;
+}
+
 .container {
 	position: relative;
 	min-height: 88vh;
