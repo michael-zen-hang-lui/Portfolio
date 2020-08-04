@@ -95,6 +95,7 @@ ul {
 	font-variant: normal;
 	text-transform: none;
 	text-align: right;
+	overflow: hidden;
 }
 
 .footer a:hover {
