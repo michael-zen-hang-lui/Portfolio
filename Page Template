@@ -9,11 +9,16 @@
 </head>
   <body>
   <div class="topnav">
-  <a class="active" href="/">Home</a>
-  <a href="/biography">Biography</a>
-  <a href="/employment">Employment History</a>
-  <a href="/contact">Contact</a>
-</div>
+      <a class="navbar-brand" href="/">
+        <div class="logo-image">
+            <img src="/favicon.ico" style="height:1em;padding-top: 0.1em" class="img-fluid">
+        </div>
+      </a>
+      <a class="active" href="/">Home</a>
+      <a href="/biography">Biography</a>
+      <a href="/employment">Employment History</a>
+      <a href="/contact">Contact</a>
+     </div>
   <div class="container">
     <div class="content-wrap">
       <div class="text-position">
